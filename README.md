@@ -19,5 +19,6 @@ We were required to make multiple commits during the build process, so that we w
 
 ## Final Submission:
 * The URLs of the deployed applications
-
+https://tlgeorge.github.io/CSS-and-Bootstrap-Responsive-Portfolio/
 * The URLs of the GitHub repositories
+https://github.com/TLGeorge
