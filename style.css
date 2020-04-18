@@ -23,3 +23,12 @@ body { font-family: 'Yanone Kaffeesatz', sans-serif;
       float: center;    
       -webkit-shape-outside: circle();    
       shape-outside: circle();}
+
+.port-img {
+    height: 300px;    
+    width: 50px;   
+}
+
+.carFloat {
+    float: center;
+}
