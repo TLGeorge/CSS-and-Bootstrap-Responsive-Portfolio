@@ -13,22 +13,14 @@ body { font-family: 'Yanone Kaffeesatz', sans-serif;
       background-color: chocolate;
   }
 
+  .title{
+      color: chocolate;
+  }
+
   .card-header{
       background-color: black;
        }
-/*        
-.content {
-           opacity: 0.5;
-     
-} */
 
-/* .card-body{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%) 
-} */
   .circle {    
       height: 300px;    
       width: 300px;    
@@ -47,3 +39,4 @@ body { font-family: 'Yanone Kaffeesatz', sans-serif;
 .carFloat {
     float: center;
 }
+
